@@ -8,6 +8,7 @@
 ehthumbs.db
 Thumbs.db
 .cache
+/.ipynb_checkpoints
 
 
 # Ignore all csv files
